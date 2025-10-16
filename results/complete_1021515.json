@@ -1,0 +1,60 @@
+{
+  "list_entry_number": "1021515",
+  "scraped_at": "2025-10-16T17:38:54.082580",
+  "urls": {
+    "official_list_entry": "https://historicengland.org.uk/listing/the-list/list-entry/1021515?section=official-list-entry",
+    "comments_and_photos": "https://historicengland.org.uk/listing/the-list/list-entry/1021515?section=comments-and-photos"
+  },
+  "timing": {
+    "api_seconds": 0.04,
+    "web_scraping_seconds": 6.26,
+    "total_seconds": 6.32
+  },
+  "api_data": {
+    "name": "PARKS COURT",
+    "grade": "II*",
+    "list_entry": 1021515,
+    "list_date": "24-Jul-1969",
+    "amend_date": "05-Nov-1987",
+    "category": null,
+    "location": {
+      "ngr": "ST 86558 47759",
+      "easting": 386558,
+      "northing": 147760,
+      "capturescale": "1:2500",
+      "longitude": null,
+      "latitude": null
+    },
+    "hyperlink": "https://historicengland.org.uk/listing/the-list/list-entry/1021515"
+  },
+  "web_data": {
+    "title": "PARKS COURT",
+    "address": "PARKS COURT",
+    "key_info": {
+      "Heritage Category": "Listed Building",
+      "Grade": "II*",
+      "List Entry Number": "1021515",
+      "Date first listed": "24-Jul-1969",
+      "Date of most recent amendment": "05-Nov-1987",
+      "List Entry Name": "PARKS COURT",
+      "Statutory Address 1": "PARKS COURT"
+    },
+    "major_amendment_date": "05-Nov-1987",
+    "location": {
+      "statutory_address": "PARKS COURT",
+      "district": "Wiltshire (Unitary Authority)",
+      "parish": "Upton Scudamore",
+      "national_grid_reference": "ST 86558 47759"
+    },
+    "description": "UPTON SCUDAMORE            UPTON SCUDAMORE VILLAGE\nST 84 NE\n                                          (south side)\n8/213                                     Parks Court\n                                          (formerly listed as\n                                          Manor Farmhouse)\n24.7.69\nGV                                        II*\nManor house.   C15, altered early C17 by Seaman family, restored\n1985-86.   Rubble stone, concrete tiled roof, diagonally-set brick\nstacks.    Two-bay open hall house with cross wings.    Two-storey,\n4-window front.   Tudor-arched doorway with strapwork-panelled door\nto left of hall, to right is one C15 two-light window with cusped\nlights and blind Perpendicular panels to top with square hoodmould\nand C17 cross window, C17 first floor gabled 3-light mullioned\ncasement with blocked vent over C15 window,  now lighting C20\ngallery.   Cross wing to left has two cross windows with single\nhoodmould to ground and first floor, 2-light mullioned casement to\nattic, coped verge.   Service cross wing to right has single cross\nwindow to ground and first floors, right return partly rebuilt in\nC18 brick, 3-light and 2-light casements to ground floor and first\nfloors, rear gable retains timber-framing to gable, blocked doorway\nto ground floor.   Left return of parlour cross wing has external\nstack, single recessed chamfered light to first floor.   Projecting\nrear wing has blocked doorway and 3-light ovolo-mullioned casement\nwith hoodmould over, blocked mullioned window to attic, rear of\nthis wing has blocked window to ground floor,  3-light ovolo-\nmullioned casement to first floor and attic, removed stack, simlar\nwindows on side facing rear courtyard.    Rear of hall has C20\nsingle-storey lobby to left with Tudor-arched doorway within and\nreset 2-light mullioned casement, 3-light mullioned casement to\nright.\nInterior:   1985 restoration included removal of C17 inserted floor\nover hall, insertion of gallery over through passage at west end,\nC17 stack moved from central position in hall to east end.   Two-\nbay deep arch-braced collar truss roof with chamfered soffits and\ncurved windbracing,  crown post to upper part of roof,  partly\nvisible below barrel-vaulted plaster ceiling.   Tudor-arched stone\nfireplace reset at east end of hall.   Good door with 8 wainscot\npanels opposite front door at west end leads to stair hall in\nparlour wing;   dogleg  stairs  with closed  string and turned\nbalusters, wide moulded handrail with square newels with ball\npendants,  probably mid C17,  rising to attic.    Timber-framed\npartition between hall and parlour, ovolo-moulded doorcases and\nstudded strapwork-panelled doors,  parlour has C17 wainscot\npanelling and deep chamfered cross beams, C20 fireplace.   Rear\nsitting room has ovolo-moulded doorway,  blocked fireplace.\nKitchen in east wing has deep chamfered beam with bar stops, open\nfireplace with lintel on stone jambs, two planked doors to left,\none to winding stairs.   First floor of east wing has timber-framed\npartition and planked doors.   First floor of parlour range has two\nbolection-moulded fireplaces, doors with 2 fielded panels in ovolo-\nmoulded cases, reset C17 wainscot panelling with strapwork frieze.\nThe Park family leased house from the Hungerfords during C15,\nSeaman family made C17 alterations and rebuilt the wings.\n(VCH, Wiltshire, Vol 8, 1965)\nListing NGR: ST8655847759",
+    "minor_amendment_date": null,
+    "legacy": {
+      "legacy_system_number": "313852",
+      "legacy_system": "LBS"
+    },
+    "sources": "Books and journalsPugh,  RB, Crittall,  E, The Victoria History of the County of Wiltshire, (1965)",
+    "legal": "This List entry helps identify the building designated at this address for its special architectural or historic interest.",
+    "map_pdf_url": "https://mapservices1.historicengland.org.uk/printwebservicehle/StatutoryPrint.svc/441553/HLE_A4L_Grade%7CHLE_A3L_Grade.pdf"
+  },
+  "success": true
+}

@@ -1,6 +1,7 @@
-flask==3.0.0
+# Historic England Complete Scraper Requirements
+
+# Web scraping
+playwright==1.48.0
+
+# API requests
 requests==2.31.0
-folium==0.15.0
-pandas==2.1.4
-python-dotenv==1.0.0
-gunicorn==21.2.0

@@ -1,0 +1,59 @@
+{
+  "list_entry_number": "1021492",
+  "scraped_at": "2025-10-16T17:38:47.268683",
+  "urls": {
+    "official_list_entry": "https://historicengland.org.uk/listing/the-list/list-entry/1021492?section=official-list-entry",
+    "comments_and_photos": "https://historicengland.org.uk/listing/the-list/list-entry/1021492?section=comments-and-photos"
+  },
+  "timing": {
+    "api_seconds": 0.07,
+    "web_scraping_seconds": 6.51,
+    "total_seconds": 6.63
+  },
+  "api_data": {
+    "name": "THE MONASTERY GARDEN",
+    "grade": "I",
+    "list_entry": 1021492,
+    "list_date": "11-Sep-1968",
+    "amend_date": "05-Nov-1987",
+    "category": null,
+    "location": {
+      "ngr": "ST 92751 53384",
+      "easting": 392751,
+      "northing": 153384,
+      "capturescale": "1:2500",
+      "longitude": null,
+      "latitude": null
+    },
+    "hyperlink": "https://historicengland.org.uk/listing/the-list/list-entry/1021492"
+  },
+  "web_data": {
+    "title": "THE MONASTERY GARDEN",
+    "address": "THE MONASTERY GARDEN",
+    "key_info": {
+      "Heritage Category": "Listed Building",
+      "Grade": "I",
+      "List Entry Number": "1021492",
+      "Date first listed": "11-Sep-1968",
+      "Date of most recent amendment": "05-Nov-1987",
+      "List Entry Name": "THE MONASTERY GARDEN",
+      "Statutory Address 1": "THE MONASTERY GARDEN"
+    },
+    "major_amendment_date": "05-Nov-1987",
+    "location": {
+      "statutory_address": "THE MONASTERY GARDEN",
+      "district": "Wiltshire (Unitary Authority)",
+      "parish": "Edington",
+      "national_grid_reference": "ST 92751 53384"
+    },
+    "description": "EDINGTON                   EDINGTON VILLAGE\nST 95 SW\n                                          (north side)\n5/156                                     The Monastery Garden\n                                          (formerly listed as House on east\n11.9.68                                   side of Old Monastery Garden)\nGV                                        I\nCottage built onto former monastic wall.   Possibly C16, altered\nC18 and extended late C19 and 1930s.   Rubble stone, or painted\nEnglish garden wall bond brick,  stone slate roofs with half-hips,\nbrick or stone stacks.   T-plan.   Two-storey, 5-window west front\nfacing gardens.   Half-glazed C20 door, 2 and 3-light segmental-\nheaded casements either side.    First floor has five 2-light\ncasements;  the two left hand bays are additions c1930.   Rear\nincorporated into walls of former Priory of Bonshommes (q.v.),\nrubble stone, C19 two-light mullioned casements to first floor of\nmain range.   C19 rear wing has 2-light mullioned casements to\nnorth side,  3-light mullioned and transomed window to first floor\nof south side, C20 door in recessed porch below, blocked window on\neast side.   Interior has deeply chamfered beams with plain stops,\nfirst floor retains 8-panelled wainscot door.   During late C19 the\nhouse was a tea-room.\nListing NGR: ST9275153392",
+    "minor_amendment_date": null,
+    "legacy": {
+      "legacy_system_number": "313795",
+      "legacy_system": "LBS"
+    },
+    "legal": "This List entry helps identify the building designated at this address for its special architectural or historic interest.",
+    "map_pdf_url": "https://mapservices1.historicengland.org.uk/printwebservicehle/StatutoryPrint.svc/425959/HLE_A4L_Grade%7CHLE_A3L_Grade.pdf"
+  },
+  "success": true
+}

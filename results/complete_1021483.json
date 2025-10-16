@@ -1,0 +1,59 @@
+{
+  "list_entry_number": "1021483",
+  "scraped_at": "2025-10-16T17:38:40.779913",
+  "urls": {
+    "official_list_entry": "https://historicengland.org.uk/listing/the-list/list-entry/1021483?section=official-list-entry",
+    "comments_and_photos": "https://historicengland.org.uk/listing/the-list/list-entry/1021483?section=comments-and-photos"
+  },
+  "timing": {
+    "api_seconds": 0.05,
+    "web_scraping_seconds": 6.23,
+    "total_seconds": 6.29
+  },
+  "api_data": {
+    "name": "THE HOUSE OF STEPS",
+    "grade": "II",
+    "list_entry": 1021483,
+    "list_date": "11-Sep-1968",
+    "amend_date": "05-Nov-1987",
+    "category": null,
+    "location": {
+      "ngr": "ST 94929 53977",
+      "easting": 394929,
+      "northing": 153977,
+      "capturescale": "1:2500",
+      "longitude": null,
+      "latitude": null
+    },
+    "hyperlink": "https://historicengland.org.uk/listing/the-list/list-entry/1021483"
+  },
+  "web_data": {
+    "title": "THE HOUSE OF STEPS",
+    "address": "THE HOUSE OF STEPS",
+    "key_info": {
+      "Heritage Category": "Listed Building",
+      "Grade": "II",
+      "List Entry Number": "1021483",
+      "Date first listed": "11-Sep-1968",
+      "Date of most recent amendment": "05-Nov-1987",
+      "List Entry Name": "THE HOUSE OF STEPS",
+      "Statutory Address 1": "THE HOUSE OF STEPS"
+    },
+    "major_amendment_date": "05-Nov-1987",
+    "location": {
+      "statutory_address": "THE HOUSE OF STEPS",
+      "district": "Wiltshire (Unitary Authority)",
+      "parish": "Coulston",
+      "national_grid_reference": "ST 94929 53977"
+    },
+    "description": "EAST COULSTON              EAST COULSTON VILLAGE\nST 95 SW\n                                          (south side)\n5/136                                     The House of Steps\n                                          (formerly listed as No 11,\n11.9.68\n                                          Many Steps)\nGV                                        II\nDetached house.    Mid C18.    Flemish bond brick with stone quoins\nand rubble stone plinth, stone slate roof with coped verges and\ngable end brick stacks.   Two-storey,  3-window.   Central planked\ndoor in cyma-moulded architrave with flat stone hood on brackets,\nup three semi-circular stone steps,  former 2-light recessed\nchamfered mullioned casements to cellar to left and right.   First\nfloor has 3-light cyma-mullioned casement either side of 2-light\nmullioned casement over door.   Left return has blocked opening to\nformer bread oven.   Early C20 extension attached to right return.\nRear has French windows and 2-light casement to first floor, 2-\nstorey extension with 2-light casement.\nInterior has open fireplace with renewed lintel on chamfered stone\njambs and winding stairs to left, in former kitchen.   Parlour has\nstone fireplace surround with beaded round corners,  cyma-moulded\nplaster ceiling cornice, roughly chamfered beams.   Cellar runs\nlength of house and is barrel-vaulted.\nListing NGR: ST9492953977",
+    "minor_amendment_date": null,
+    "legacy": {
+      "legacy_system_number": "313774",
+      "legacy_system": "LBS"
+    },
+    "legal": "This List entry helps identify the building designated at this address for its special architectural or historic interest.",
+    "map_pdf_url": "https://mapservices1.historicengland.org.uk/printwebservicehle/StatutoryPrint.svc/416396/HLE_A4L_Grade%7CHLE_A3L_Grade.pdf"
+  },
+  "success": true
+}

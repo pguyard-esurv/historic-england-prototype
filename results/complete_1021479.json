@@ -1,0 +1,59 @@
+{
+  "list_entry_number": "1021479",
+  "scraped_at": "2025-10-16T17:38:34.083563",
+  "urls": {
+    "official_list_entry": "https://historicengland.org.uk/listing/the-list/list-entry/1021479?section=official-list-entry",
+    "comments_and_photos": "https://historicengland.org.uk/listing/the-list/list-entry/1021479?section=comments-and-photos"
+  },
+  "timing": {
+    "api_seconds": 0.06,
+    "web_scraping_seconds": 6.42,
+    "total_seconds": 6.5
+  },
+  "api_data": {
+    "name": "BRIDGE FARMHOUSE",
+    "grade": "II",
+    "list_entry": 1021479,
+    "list_date": "11-Sep-1968",
+    "amend_date": "05-Nov-1987",
+    "category": null,
+    "location": {
+      "ngr": "ST 85854 49773",
+      "easting": 385854,
+      "northing": 149773,
+      "capturescale": "1:2500",
+      "longitude": null,
+      "latitude": null
+    },
+    "hyperlink": "https://historicengland.org.uk/listing/the-list/list-entry/1021479"
+  },
+  "web_data": {
+    "title": "BRIDGE FARMHOUSE",
+    "address": "BRIDGE FARMHOUSE, WESTBURY LEIGH",
+    "key_info": {
+      "Heritage Category": "Listed Building",
+      "Grade": "II",
+      "List Entry Number": "1021479",
+      "Date first listed": "11-Sep-1968",
+      "Date of most recent amendment": "05-Nov-1987",
+      "List Entry Name": "BRIDGE FARMHOUSE",
+      "Statutory Address 1": "BRIDGE FARMHOUSE, WESTBURY LEIGH"
+    },
+    "major_amendment_date": "05-Nov-1987",
+    "location": {
+      "statutory_address": "BRIDGE FARMHOUSE, WESTBURY LEIGH",
+      "district": "Wiltshire (Unitary Authority)",
+      "parish": "Dilton Marsh",
+      "national_grid_reference": "ST 85854 49773"
+    },
+    "description": "DILTON MARSH               WESTBURY LEIGH\nST 84 NE\n                                          (north side)\n8/125                                     Bridge Farmhouse\n                                          (formerly listed as Westbury Leigh)\n11.9.68\n                                          II\nInn, now detached house.  Mid C17, altered and additions C18 and\nC19.  Front C18 range faced in ashlar with hipped Bridgewater tiled\nroof, stone stacks, rear wing formerly timber-framed and rebuilt in\nEnglish garden wall bond brick with Welsh slate roof and three\ndiagonally-set brick stacks.   L-plan.   Two-storey,  5-window.\nCentral double panelled doors with flanking unfluted columns with\negg and dart capitals to fluted frieze and cornice, two 12-pane\nsashes either side.  Centre three bays break forward.  Moulded\nstring course to first floor;  central blind window with pediment,\ntwo sashes either side, the outer ones with pediments, frieze with\nswags and half-pilasters to centre three bays, pilasters to sides\ncarried up to cornice and plain blocking course.  Right return has\nsash and blind window to ground and first floor.  Left return has\nlean-to shed attached.  Rear of main range has lean-to extension.\nC17 wing to rear has 4-panelled door and 2-light casements to\nground and first floor on east side, west side retains some timber-\nframing, 2-light casements.  Interior not accessible at time of\nsurvey (June 1986).  Formerly known as the Apple Tree Inn.\nListing NGR: ST8585449773",
+    "minor_amendment_date": null,
+    "legacy": {
+      "legacy_system_number": "313763",
+      "legacy_system": "LBS"
+    },
+    "legal": "This List entry helps identify the building designated at this address for its special architectural or historic interest.",
+    "map_pdf_url": "https://mapservices1.historicengland.org.uk/printwebservicehle/StatutoryPrint.svc/448123/HLE_A4L_Grade%7CHLE_A3L_Grade.pdf"
+  },
+  "success": true
+}

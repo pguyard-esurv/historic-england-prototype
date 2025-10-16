@@ -1,0 +1,59 @@
+{
+  "list_entry_number": "1021474",
+  "scraped_at": "2025-10-16T17:38:27.809260",
+  "urls": {
+    "official_list_entry": "https://historicengland.org.uk/listing/the-list/list-entry/1021474?section=official-list-entry",
+    "comments_and_photos": "https://historicengland.org.uk/listing/the-list/list-entry/1021474?section=comments-and-photos"
+  },
+  "timing": {
+    "api_seconds": 0.05,
+    "web_scraping_seconds": 6.01,
+    "total_seconds": 6.08
+  },
+  "api_data": {
+    "name": "The Old Vicarage",
+    "grade": "II",
+    "list_entry": 1021474,
+    "list_date": "05-Nov-1987",
+    "amend_date": "08-Sep-1988",
+    "category": null,
+    "location": {
+      "ngr": "ST 84943 49714",
+      "easting": 384943,
+      "northing": 149714,
+      "capturescale": "1:2500",
+      "longitude": null,
+      "latitude": null
+    },
+    "hyperlink": "https://historicengland.org.uk/listing/the-list/list-entry/1021474"
+  },
+  "web_data": {
+    "title": "The Old Vicarage",
+    "address": "The Old Vicarage, The Hollow",
+    "key_info": {
+      "Heritage Category": "Listed Building",
+      "Grade": "II",
+      "List Entry Number": "1021474",
+      "Date first listed": "05-Nov-1987",
+      "Date of most recent amendment": "08-Sep-1988",
+      "List Entry Name": "The Old Vicarage",
+      "Statutory Address 1": "The Old Vicarage, The Hollow"
+    },
+    "major_amendment_date": "08-Sep-1988",
+    "location": {
+      "statutory_address": "The Old Vicarage, The Hollow",
+      "district": "Wiltshire (Unitary Authority)",
+      "parish": "Dilton Marsh",
+      "national_grid_reference": "ST 84943 49714"
+    },
+    "description": "ST 84 NW\n7/114 DILTON MARSH                              \nTHE HOLLOW\nThe Old Vicarage(Formerly listed under HIGH STREET (off south side))GV                                               \nII\nVicarage, now detached house, 1850, by Thomas Austin of Bristol. Coursed quared rubble stone with ashlar quoins and dressings, Bridgewater filed roof, tall ashlar stacks with moulded cappings, some square, some octagonal. Two parallel ranges with cross-wing to south, two storeys and attics. Entrance front has Tudor arched doorway to right, hoodmould with date 1904, ribbed door. Large three-light mullioned and transomed window lighting stair-hall to left, five-light mullioned and transomed window to left again. String course. First floor has three-light and two-light mullioned casements. Gable end of cross-wing to right. Four-light mullioned and transomed window below, four-light window above, small two-light one in gable  All glazing has been replaced by modern double glazed unit c.1985 within existing frames.  Garden front of cross wing has five-light mullioned casement to central bay with Tudor arched lights, four-light mullioned and transomed window to right. First floor has one two-light and one three-light mullioned window. Datestone 1850. Rear wing has five-light mullioned and transomed window and three-light similar with four- and three-light mullioned windows above. Interior retains most original fittings; four-panelled doors, open-well stairs with turned balusters and moulded handrail, tiled floors, original carved fireplaces, kitchen dresser and cast-iron column screen.(Plans and specifications in Diocesan Records, Trowbridge).Listing NGR: ST8494349714",
+    "minor_amendment_date": null,
+    "legacy": {
+      "legacy_system_number": "313752",
+      "legacy_system": "LBS"
+    },
+    "legal": "This List entry helps identify the building designated at this address for its special architectural or historic interest.",
+    "map_pdf_url": "https://mapservices1.historicengland.org.uk/printwebservicehle/StatutoryPrint.svc/406653/HLE_A4L_Grade%7CHLE_A3L_Grade.pdf"
+  },
+  "success": true
+}

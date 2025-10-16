@@ -1,0 +1,58 @@
+{
+  "list_entry_number": "1380908",
+  "scraped_at": "2025-10-16T17:38:04.021544",
+  "urls": {
+    "official_list_entry": "https://historicengland.org.uk/listing/the-list/list-entry/1380908?section=official-list-entry",
+    "comments_and_photos": "https://historicengland.org.uk/listing/the-list/list-entry/1380908?section=comments-and-photos"
+  },
+  "timing": {
+    "api_seconds": 0.11,
+    "web_scraping_seconds": 6.57,
+    "total_seconds": 6.7
+  },
+  "api_data": {
+    "name": "10 Ship Street",
+    "grade": "II",
+    "list_entry": 1380908,
+    "list_date": "26-Aug-1999",
+    "amend_date": null,
+    "category": null,
+    "location": {
+      "ngr": "TQ 30951 04040",
+      "easting": 530951,
+      "northing": 104040,
+      "capturescale": "1:2500",
+      "longitude": null,
+      "latitude": null
+    },
+    "hyperlink": "https://historicengland.org.uk/listing/the-list/list-entry/1380908"
+  },
+  "web_data": {
+    "title": "10 Ship Street",
+    "address": "10, Ship Street, BN1 1AD",
+    "key_info": {
+      "Heritage Category": "Listed Building",
+      "Grade": "II",
+      "List Entry Number": "1380908",
+      "Date first listed": "26-Aug-1999",
+      "List Entry Name": "10 Ship Street",
+      "Statutory Address 1": "10, Ship Street, BN1 1AD"
+    },
+    "major_amendment_date": null,
+    "location": {
+      "statutory_address": "10, Ship Street, BN1 1AD",
+      "district": "The City of Brighton and Hove (Unitary Authority)",
+      "parish": "Non Civil Parish",
+      "national_grid_reference": "TQ 30951 04040"
+    },
+    "description": "This list entry was subject to a Minor Amendment on 17 April 2024 to amend the name and address and reformat the text to current standardsTQ3004SE\n577-1/39/829BRIGHTON\nSHIP STREET (West side)\nNo 10(Formerly listed as No.10 Smugglers Public House)GV\nIIPublic house. Late C19. Stucco, roof obscured by parapet.EXTERIOR: three storeys, three-window range. The street front is arranged as a broad central bay with narrower bays on either side, the first floor central bay being shallowly canted out, the whole front on the second floor being set back, and flat. Round-arched entrances in the outer bays, that to left retaining archivolt and keystone; the entrances flanked by broad pilasters with ball decoration to the necking and palmette, acanthus and fluted ornament to caps; entablature with fluted brackets and, on the left, a pediment filled with foliage ornament; the entrance to the right has a plain entablature and no pediment. The central window of three bays now altered, but retaining decorative brackets supporting entablature to canted bay above; that bay divided into three windows with slim columns presumably of metal, the windows themselves having one mullion and one transom; the bays to either side have flat-arched windows with one mullion and one transom, flanked by Doric pilasters with fluted necking; cornice; low gabled piers above the pilasters with cast-iron railings between with scrolling foliage ornament; second-floor set back, the flat-arched windows having architraves and cornices, glazing renewed; gutters; side stacks.INTERIOR: the interior retains no original features of interest.Listing NGR: TQ3095104040",
+    "minor_amendment_date": "17 April 2024",
+    "legacy": {
+      "legacy_system_number": "481232",
+      "legacy_system": "LBS"
+    },
+    "legal": "This List entry helps identify the building designated at this address for its special architectural or historic interest.",
+    "map_pdf_url": "https://mapservices1.historicengland.org.uk/printwebservicehle/StatutoryPrint.svc/343616/HLE_A4L_Grade%7CHLE_A3L_Grade.pdf"
+  },
+  "success": true
+}

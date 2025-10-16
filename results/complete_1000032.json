@@ -1,0 +1,40 @@
+{
+  "list_entry_number": "1000032",
+  "scraped_at": "2025-10-16T17:38:21.257850",
+  "urls": {
+    "official_list_entry": "https://historicengland.org.uk/listing/the-list/list-entry/1000032?section=official-list-entry",
+    "comments_and_photos": "https://historicengland.org.uk/listing/the-list/list-entry/1000032?section=comments-and-photos"
+  },
+  "timing": {
+    "api_seconds": 0.06,
+    "web_scraping_seconds": 6.29,
+    "total_seconds": 6.36
+  },
+  "api_data": null,
+  "web_data": {
+    "title": "Battle of Sedgemoor 1685",
+    "address": "",
+    "key_info": {
+      "Heritage Category": "Battlefield",
+      "List Entry Number": "1000032",
+      "Date first listed": "06-Jun-1995",
+      "Location Description": "SEDGEMOOR"
+    },
+    "major_amendment_date": null,
+    "location": {
+      "district": "Somerset (Unitary Authority)",
+      "parish": "Westonzoyland",
+      "national_grid_reference": "ST 35039 35908"
+    },
+    "description": "BATTLE OF SEDGEMOOR\n1685The Monmouth Rebellion of June-July 1685 was an attempt to usurp the crown of England by James Scott, Duke of Monmouth, from the Catholic King James II.Having spent a year in voluntary exile in the Netherlands, Monmouth landed in Dorset in June 1685. Despite a number of setbacks, he had gathered around him an army of 7,000 men by the time he was faced by the royal army near Westonzoyland. Monmouth decided to chance all upon a night attack.On the night of 5/6 July, Monmouth's rebels advanced. However, they hesitated at the Bussex Rhyne watercourse and instead of rushing the royal army, took it in at a distance in a firefight. All night the forces exchanged musket and cannon fire, but at daybreak the King's army advanced, crossed the Rhyne and forced the rebels to flee. Many were caught and killed in what is now Moor Drove Rhyne.The Battle of Sedgemoor was the last pitched battle to be fought on English soil. Three days after his defeat, Monmouth was captured and later executed. Hundreds of his supporters suffered at the hands of Judge Jeffreys' Bloody Assizes.The landscape of the battlefield was similar in character to that of today, with pasture on the moors and arable on the higher ground. The chief difference is the regularity of the drains, which were improved in the late eighteenth century. The Bussex Rhyne had been infilled but is visible on aerial photographs.AMENITY FEATURES\nSomerset Tourism already promotes the 'Pitchfork Rebellion Trail'. A trail board is sited at Chedzoy church.OTHER DESIGNATIONS\nPart if the battlefield is within a Special Landscape Area. It is also an Area of High Archaeological Potential.KEY SOURCES\nRCHM, 1904, Report on the manuscripts of Mrs Stopford-Sackville, vol. 1\nThis list entry was subject to a Minor Amendment to the Selected Sources on 10/04/2019",
+    "minor_amendment_date": "10/04/2019",
+    "legacy": {
+      "legacy_system_number": "33",
+      "legacy_system": "Battlefields"
+    },
+    "sources": "WebsitesEnglish Heritage Battlefield Report: Battle of Sedgemoor 1685 (Published 1995), accessed 10th April 2019 from https://historicengland.org.uk/content/docs/listing/battlefields/sedgemoor/",
+    "legal": "This list entry identifies a battlefield which is registered because of its special historic interest.",
+    "map_pdf_url": "https://mapservices1.historicengland.org.uk/printwebservicehle/StatutoryPrint.svc/33/HLE_A4L_NoGrade%7CHLE_A3L_NoGrade.pdf"
+  },
+  "success": true
+}
