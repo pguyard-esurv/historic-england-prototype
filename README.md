@@ -35,7 +35,7 @@ playwright install chromium
 # Scrape a single building
 python3 complete_scraper.py 1380908
 
-# Output: complete_1380908.json
+# Output: results/complete_1380908.json
 ```
 
 ### As a Module
@@ -60,9 +60,18 @@ print(result['web_data']['description'])
     "official_list_entry": "https://...",
     "comments_and_photos": "https://..."
   },
-  "api_data": { ... },
+  "timing": {
+    "api_seconds": 0.11,
+    "web_scraping_seconds": 6.57,
+    "total_seconds": 6.7
+  },
+  "api_data": {
+    "list_date": "26-Aug-1999",
+    "amend_date": null,
+    ...
+  },
   "web_data": {
-    "major_amendment_date": "05-Nov-1987",
+    "major_amendment_date": null,
     "minor_amendment_date": "17 April 2024",
     ...
   },
@@ -73,7 +82,8 @@ print(result['web_data']['description'])
 ## What's Included
 
 ### API Data
-- Building name, grade, list date
+- Building name, grade, list date (human-readable format)
+- Amendment date (human-readable format)
 - National Grid Reference (NGR)
 - Easting/Northing coordinates
 - Direct hyperlink
@@ -90,15 +100,17 @@ print(result['web_data']['description'])
 
 ## Performance
 
-- **Speed**: ~3-4 seconds per building
+- **Speed**: ~6-7 seconds per building (API: <0.1s, Web: ~6s)
 - **Success Rate**: Very high (>99%)
 - **Headless**: Runs without visible browser
+- **Timing Metrics**: Recorded for each scrape (API, web, total)
 
 ## Limitations
 
 - **Comments & Photos**: Not included due to Cloudflare protection
-- **Rate Limiting**: Add 2+ second delays between requests
+- **Rate Limiting**: Add 2+ second delays between bulk requests to be respectful
 - **Official Entries Only**: Scrapes official list entry page
+- **Listed Buildings Only**: API data only available for listed buildings (not battlefields, parks, etc.)
 
 ## License
 
