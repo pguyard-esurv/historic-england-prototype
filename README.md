@@ -1,4 +1,4 @@
-# Historic England API Explorer - Refactored
+# Historic England API Explorer
 
 A comprehensive, DRY (Don't Repeat Yourself) tool for exploring the National Heritage List for England (NHLE) API and scraping detailed building information from Historic England pages.
 
@@ -9,36 +9,36 @@ A comprehensive, DRY (Don't Repeat Yourself) tool for exploring the National Her
 - **`scraper.py`** - Unified web scraper with timing and UPRN detection
 - **`__init__.py`** - Package initialization
 
-### **Main Scripts** (Refactored)
-- **`api_explorer_refactored.py`** - Clean API exploration using shared client
-- **`detailed_scraper_refactored.py`** - Simplified scraper using shared modules
-- **`comparison_refactored.py`** - API vs scraping comparison with timing
-- **`batch_processor_refactored.py`** - Batch processing with UPRN detection
+### **Main Scripts**
+- **`api_explorer.py`** - Clean API exploration using shared client
+- **`detailed_scraper.py`** - Simplified scraper using shared modules
+- **`comparison.py`** - API vs scraping comparison with timing
+- **`batch_processor.py`** - Batch processing with UPRN detection
 
 ## 🚀 Quick Start
 
 ### **1. API Exploration**
 ```bash
-python api_explorer_refactored.py
+python api_explorer.py
 ```
 
 ### **2. Detailed Scraping**
 ```bash
-python detailed_scraper_refactored.py
+python detailed_scraper.py
 ```
 
 ### **3. Performance Comparison**
 ```bash
-python comparison_refactored.py
+python comparison.py
 ```
 
 ### **4. Batch Processing**
 ```bash
 # Process 10 buildings
-python batch_processor_refactored.py 10
+python batch_processor.py 10
 
 # Process 20 buildings with UPRN detection
-python batch_processor_refactored.py 20 uprn
+python batch_processor.py 20 uprn
 ```
 
 ## 📊 Features
@@ -122,12 +122,12 @@ historic-england/
 │   ├── __init__.py
 │   ├── api_client.py      # Centralized API client
 │   └── scraper.py         # Unified web scraper
-├── api_explorer_refactored.py
-├── detailed_scraper_refactored.py
-├── comparison_refactored.py
-├── batch_processor_refactored.py
+├── api_explorer.py
+├── detailed_scraper.py
+├── comparison.py
+├── batch_processor.py
 ├── requirements.txt
-└── README_refactored.md
+└── README.md
 ```
 
 ## 🎯 Use Cases
