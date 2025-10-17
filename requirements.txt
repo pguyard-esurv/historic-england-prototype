@@ -7,7 +7,6 @@ playwright==1.48.0
 requests==2.31.0
 
 # Database
-sqlite3  # Built-in with Python
 sqlalchemy==2.0.23
 pandas==2.1.4
 
